@@ -31,4 +31,12 @@ function Header(spanText1, h1Text, spanText2) {
     return div;
 }
 
-console.log(Header('SMARCH 28, 2019', 'Lambda Times', '98°'));
+let headerCom = Header('SMARCH 28, 2019', 'Lambda Times', '98°');
+
+console.log(headerCom);
+
+let headerContainer = document.querySelector('.header-container');
+
+console.log(headerContainer);
+
+headerContainer.appendChild(headerCom);
