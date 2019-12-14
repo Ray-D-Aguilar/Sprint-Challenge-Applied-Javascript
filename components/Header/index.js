@@ -42,4 +42,4 @@ let headerContainer = document.querySelector('.header-container'); //selecting t
 
 console.log(headerContainer); //console.logging the parent div
 
-headerContainer.appendChild(headerCom);  //appending the contents of the component to the parent div
+headerContainer.appendChild(headerCom);  //appending the contents of the component to the parent div 
