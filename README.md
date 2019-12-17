@@ -42,7 +42,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 
 4. Why would we convert a NodeList into an Array?	4. Why would we convert a NodeList into an Array?
-- sdfjsdlfjsdf	- We would convert a NodeList into an Array to access the .reduce or .map methods that NodeLists do not offer. 
+- sdfjsdlfjsdf	- We would convert a NodeList into an Array to access the .reduce or .map methods that NodeLists do not offer.
+--Access array-like methods 
 
 
 5. What is a component?	5. What is a component?
