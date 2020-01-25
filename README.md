@@ -28,15 +28,26 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
-1. What is the DOM?
 
-2. What is an event?
+1. What is the DOM?	1. What is the DOM?
+- sdfldsjflsdf	- The DOM, also known as the Document Object Model, is an object representation of the html elements of a webpage. It is an interface that we can use to manipulate the page. We can manipulate things like structure, content, and styling. It is basically what you see on the webpage.
 
-3. What is an event listener?
 
-4. Why would we convert a NodeList into an Array?
+2. What is an event?	2. What is an event?
+- sdljflsfjsd 	- An event is every interaction a user has with a website. These events include: click, moving the mouse, scrolling the page, pressing a key on the keyboard, etc.  The browser is always keeping track of events. This is called a "trigger".
 
-5. What is a component?
+
+3. What is an event listener?	3. What is an event listener?
+- sdfjsdlfjsdf	- An event listener is code that listens for triggers happening on the page. The event listener can then "do something" when an event is triggered. The event listener is given an event to look for, an element it is looking at, and a callback function to do something after it is triggered. 
+
+
+4. Why would we convert a NodeList into an Array?	4. Why would we convert a NodeList into an Array?
+- sdfjsdlfjsdf	- We would convert a NodeList into an Array to access the .reduce or .map methods that NodeLists do not offer.
+--Access array-like methods 
+
+
+5. What is a component?	5. What is a component?
+- sdfjsdlfjsdf	- A component is made up of HTML, CSS or JavaScript that can be reused in a website or application. You can create and append elements (HTML), you can add classes (CSS), and you can then output these items to the DOM (JavaScript).
 
 ### Git Set up
 
@@ -44,7 +55,7 @@ Edit this document to include your answers after each question. Make sure to lea
 * [ ] Clone the forked project into a directory on your machine
 * [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
 * [ ] You are now ready to build this project with your preferred IDE
-
+ 
 ## Minimum Viable Product
 
 Your finished project must include all of the following requirements:
